@@ -1,3 +1,6 @@
 This is going to be changed
+<<<<<<< HEAD
 This line will be intact
 This is third line
+=======
+>>>>>>> parent of 7ad44f4 (added to two.txt)
