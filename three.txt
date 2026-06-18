@@ -2,4 +2,4 @@ This is first one`
 This is second line added now
 This is third line added now
 Added this line for multi line commit message testing
-Added different line to three.txt
+This is what we want Added different line to three.txt
